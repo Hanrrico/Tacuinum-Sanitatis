@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffe2af;
+    border: solid 2px #BB5802;
+    margin: 10px;
+}
+p{
+    color: #59311a;
+    font-size: 18px;
+}
+a:link{
+    color: #59311a;
+    text-align: center;
+}
+a:visited{
+    color: #59311a;
+}
+a:hover{
+    color: #FFC866;
+    background-color: #BB5802;
+    padding: 1px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FFC866;
+    padding-bottom: 15px;
+}
+h2, h3{
+    color: #b37d27;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+#cabecalho{
+    background-color: #BB5802;
+    text-align: center;
+    padding: 20px;
+    }
+
+#principal{
+    height: auto;
+    width: 680px;
+    float: left;
+    margin: 5px 0px 10px 0px;
+    padding: 5px;
+    }
+#texto{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#caixa{
+    background-color: #FFC866;
+    padding: 10px;
+    margin: 20px;
+    border: solid 2px #BB5802;
+    color: #59311a;
+}
+#rodape{
+    color: #FFC866;
+    background-color: #BB5802;
+    padding: 20px;
+    clear: both;
+    margin-top: 20px;
+    text-align: center;
+}
+#postagem{
+    background-color: #FFC866;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: solid 2px #BB5802;
+}
+.sobre{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+#postagem img{
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    text-align: center;
+}
